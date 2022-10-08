@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning:
+  - To be a Software Engineer at FH Hagneberg
+  - Kernel Module Development (embedded)
+  
+- 📫 How to reach me: 
+  - TBD

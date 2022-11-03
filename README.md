@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning:
-  - To be a Software Engineer at FH Hagneberg
+  - To be a Software Engineer at FH Hagenberg
   - Kernel Module Development (embedded)
   
 - 📫 How to reach me: 

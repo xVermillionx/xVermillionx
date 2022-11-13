@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning:
-  - To be a Software Engineer at FH Hagenberg
-  - Kernel Module Development (embedded)
-  
+  - Software Engineering (FH Hagenberg)
+  - Linux Kernel Development
+- ❤️ I'm interested in:
+  - Linux
+  - C/C++
+  - Vim/Neovim
 - 📫 How to reach me: 
   - TBD

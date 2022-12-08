@@ -24,3 +24,10 @@ Here are some ideas to get you started:
   - Vim/Neovim
 - 📫 How to reach me: 
   - TBD
+
+
+Work with:
+  `C` | `C++` | `lua` | `shellscript(posix|bash)` | `javascript` (`html`, `css`, `sass`) | `python`
+
+Want to learn:
+`Rust`

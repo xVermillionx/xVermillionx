@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ❤️ I'm interested in:
   - Linux
   - C/C++
-  - Vim/Neovim
+  - Neovim
 - 📫 How to reach me: 
   - TBD
 
@@ -30,4 +30,6 @@ Work with:
   `C` | `C++` | `lua` | `shellscript(posix|bash)` | `javascript` (`html`, `css`, `sass`) | `python`
 
 Want to learn:
-`Rust`
+- `Rust`
+- `Go`
+- `Zig`

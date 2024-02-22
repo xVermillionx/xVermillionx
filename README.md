@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   - Linux
   - C/C++
   - Neovim
+  - Hyprland
 - 📫 How to reach me: 
   - TBD
 
